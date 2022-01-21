@@ -67,7 +67,7 @@
         </pluginManagement>
     </build>
     <modules>
-        <module>hlc2-util</module>
+        <module>hlc-util</module>
     </modules>
     <dependencyManagement>
         <dependencies>
